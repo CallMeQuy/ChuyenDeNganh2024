@@ -18,7 +18,7 @@ if not check_file_extension(filename):
 else:
     try:
         # Mở file văn bản để đọc
-        with open(filename, 'r', encoding='utf-8'Bai) as file:
+        with open(filename, 'r', encoding='utf-8') as file:
             # Đọc từng dòng trong file và lưu vào list
             lines = file.readlines()
 
