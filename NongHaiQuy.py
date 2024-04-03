@@ -1,4 +1,4 @@
-# Nông Hải Quý
+# Nông Hải Quý 2010A03
 # Đề bài: Đọc 1 file văn bản gồm nhiều dòng. GHi ra màn hình theo thứ tự ngược lại của các dòng
 # Bài làm
 # Kiểm tra đuôi tệp
